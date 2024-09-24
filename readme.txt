@@ -1,4 +1,4 @@
-test.
+this is a test.
 Git is a distributed version control system.
 Git is a free software distributed under th GPL.
 Git tracks changes of files.
