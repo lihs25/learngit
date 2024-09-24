@@ -1,3 +1,4 @@
+git commit on branch dev , no --ff.
 modify on branch dev.
 creating a new branch is quick.
 Git is a distributed version control system.
